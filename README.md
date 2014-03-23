@@ -19,5 +19,7 @@ left ctrl - fire
 Authors
 =======
 Jan Bednarik
+
 Matej Kendra
+
 Jakub Kvita
