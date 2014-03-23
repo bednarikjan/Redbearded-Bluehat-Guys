@@ -14,6 +14,7 @@ This game runs on Windows (tested on Windows 8, Windows 8.1). But as it is creat
 Controlls
 =========
 arrows - movement
+
 left ctrl - fire
 
 Authors
