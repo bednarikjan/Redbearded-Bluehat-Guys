@@ -5,6 +5,8 @@ This game was created by the team of 3 students during the programming contest S
 
 Our game called Redbearded Bluehat Guys can be classified as a "Survival platformer". It introduces a young hero equipped with a mere slingshot surrounded by the loads of angry enemies continuously growing in number. Try to survive the attack and achieve the highscore!
 
+Gamaplay teaser: https://www.youtube.com/watch?v=VEHxYiGyXRk
+
 Run
 ===
 To run the game download file RBGuys.exe and run it (recommended aspect ratio is 16:9).
