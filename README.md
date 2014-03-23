@@ -5,11 +5,6 @@ This game was created by the team of 3 students during the programming contest S
 
 Our game called Redbearded Bluehat Guys can be classified as a "Survival platformer". It introduces a young hero equipped with a mere slingshot surrounded by the loads of angry enemies continuously growing in number. Try to survive the attack and achieve the highscore!
 
-Authors:
-Jan Bednarik
-Matej Kendra
-Jakub Kvita
-
 Run
 ===
 To run the game download file RBGuys.exe and run it (recommended aspect ratio is 16:9).
@@ -20,3 +15,9 @@ Controlls
 =========
 arrows - movement
 left ctrl - fire
+
+Authors
+=======
+Jan Bednarik
+Matej Kendra
+Jakub Kvita
